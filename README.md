@@ -19,3 +19,4 @@ javascript
 const sum = (a,b) => {
     return a + ;
 }
+![IMG_7953](https://user-images.githubusercontent.com/63817895/81872686-851c6200-957a-11ea-8aeb-ae77db5840a9.jpg)
