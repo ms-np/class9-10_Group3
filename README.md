@@ -1,7 +1,7 @@
 # class9-10_Group3
 
 # About Myself 
-##Bio and anything else
+## Bio and anything else
 
 
 ![My photo](myphoto) 
